@@ -1,0 +1,10 @@
+
+fastapi>=0.95.0
+uvicorn[standard]>=0.23.1
+httpx>=0.24.0
+python-dotenv>=1.0.0
+pydantic>=1.10.0
+vosk>=0.3.45
+websockets>=11.0.3
+pytest>=7.4.0
+
