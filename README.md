@@ -133,6 +133,3 @@ pytest -q
 Bu repo için lisans bilgisi eklenmemiş. Kendi kullanımına göre bir lisans eklemeyi düşün.
 
 ---
-
-Eğer istersen, ben `api/stt_api.py`'yi `STTService` ile uyumlu hale getirecek bir `upload_transcribe` endpoint'i ekleyebilirim ve bir örnek `curl` testi çalıştırabilirim. Hangisini istersin?
-
